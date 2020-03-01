@@ -1,0 +1,6 @@
+{
+	"IIS-SITE-NAME": "sitename",
+	"APP-POOL-NAME": "poolname",
+	"IIS-APP-POOL-VERSION": "v4.0",
+	"BINDINGS": ["*:8088:"]
+}
