@@ -1,6 +1,6 @@
 {
-	"IIS-SITE-NAME": "geodis",
-	"APP-POOL-NAME": "geodis",
+	"IIS-SITE-NAME": "ms",
+	"APP-POOL-NAME": "ms",
 	"IIS-APP-POOL-VERSION": "v4.0",
 	"BINDINGS": ["test-site.localtest.me"]
 }
